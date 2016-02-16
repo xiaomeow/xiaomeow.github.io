@@ -1,0 +1,44 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Xiao   Fu
+description:      'Student. Punster.'
+url:              http://xiaomeow.com
+baseurl:          /
+logo:             /content/images/me.jpg
+
+author:
+  name:           'Xiao Fu'
+  url:            https://plus.google.com/u/0/102183121841283681874/posts
+
+paginate:         5
+
+##disqus_shortname: 
+
+github:
+  repo:           https://github.com/xiaomeow
+
+# Social Media Content
+
+email: xiaoqwf@gmail.com
+github_username:  xiaomeow
+googleplus_username: 102183121841283681874
+facebook_username: 100009634812835
+
+# Sizing
+
+iconsize: 42px
+
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+
+kramdown:
+  # Enable GitHub Flavored Markdown (fenced code blocks)
+  input: GFM
