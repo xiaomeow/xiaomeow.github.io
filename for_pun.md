@@ -11,6 +11,12 @@ The "United" States!
 What is a cat's favorite way of holding a pen?
 "Purr.."pen-dicularly!
 
+What do you call a feline exihibition?
+Mew-seum!
+
+Why are puns usually terrible?
+Because they're meant to "Pun"-ish people!
+
 What does a cat do to a glovebox?
 "Purr.."ge!
 
