@@ -3,8 +3,7 @@ layout: default
 title: Xiao Fu
 ---
 
-# Hi! I'm Xiao
-# This is where I meow
+# Hi! I'm Xiao. This is where I meow
 
 This is my purr..sonal website, and is purr..manently under construction.
 
