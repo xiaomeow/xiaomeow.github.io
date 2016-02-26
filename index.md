@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Xiao Fu
+title: Meow
 ---
 
-# Hi! I'm Xiao, and this is where I am meow
+# Hi! I'm Xiao, and this is where I meow
 
 This is my purr..sonal website, and is purr..manently under construction.
 
