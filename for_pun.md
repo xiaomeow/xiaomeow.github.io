@@ -31,3 +31,5 @@ Hapi knew Ear!
 ## Resources 
 
 <a href="https://google.com">Google </a>
+
+<a href="http://www.rinkworks.com/jokes/">Really Bad Jokes </a>
