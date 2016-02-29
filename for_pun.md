@@ -27,9 +27,10 @@ Hapi knew Ear!
 
 ## Miscellaneous
 
+<a href="http://www.rinkworks.com/jokes/">Jokes from the internet </a>
 
 ## Resources 
 
-<a href="https://google.com">Google </a>
+<a href="www.kaptest.com/myhome.jhtml">MCAT Resources (password: mCAT) </a>
 
-<a href="http://www.rinkworks.com/jokes/">Really Bad Jokes </a>
+
