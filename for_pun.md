@@ -31,6 +31,6 @@ Hapi knew Ear!
 
 ## Resources 
 
-<a href="http://www.kaptest.com/myhome.jhtml">MCAT Resources (password: mCAT) </a>
+<a href="https://www.kaptest.com/myhome.jhtml">MCAT Resources (password: mCAT) </a>
 
 
