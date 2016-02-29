@@ -5,6 +5,8 @@ title: Once "A-Pun" A Time...
 
 ## Puns/Jokes
 
+I enjoy telling jokes in the elevator, since that makes my jokes funny on so many different levels.
+
 What do you call a wave function describing different quantum states of multiple systems?
 The "United" States! 
 
