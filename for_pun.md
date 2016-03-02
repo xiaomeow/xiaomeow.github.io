@@ -13,6 +13,10 @@ I enjoy telling jokes in the elevator, since that makes my jokes funny on so man
 What do you call a wave function describing different quantum states of multiple systems?
 The "United" States! 
 
+Why does heat have boring derivatives? Because dq=TdS, i.e."tedius"! (where q is heat, T is temperature, and S is entropy)
+
+There are two kittens on the roof, which one slides off first? The one with the lower mew! (where \mu is the coefficient of friction)
+
 What is a cat's favorite way of holding a pen?
 "Purr.."pen-dicularly!
 
