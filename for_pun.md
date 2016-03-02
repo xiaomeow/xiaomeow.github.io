@@ -17,6 +17,14 @@ Why does heat have boring derivatives? Because dq=TdS, i.e."tedius"! (where q is
 
 There are two kittens on the roof, which one slides off first? The one with the lower mew! (where \mu is the coefficient of friction)
 
+Where in the hospital is the worst place to play hide-and-seek? In the I.C.U.
+
+Why are fruit flies cold? Because they have compound ice (compound eyes)
+
+Why are starfish cooler than humans? Because they have more ice/eyes (since they have one eye at the end of each arm, so typically five in total)
+
+Why does it stop raining after Christmas? Because the "rain"-deers/reindeers are gone
+
 What is a cat's favorite way of holding a pen?
 "Purr.."pen-dicularly!
 
@@ -32,6 +40,8 @@ What does a cat do to a glovebox?
 Once upon a time, there was an industrious otolaryngologist specializing in ear infection, so most people knew him as Mr. Ear. His job left him hardly any leisure. On New Year's Eve, however, I asked Mr. Ear to join me for a party at Mr. Hapi's. To my surprise and delight, he agreed to come along. 
 We both showed up at the party, but Mr. Ear started talking to Mr. Hapi before I even introduced him. Then I came to realize ----
 Hapi knew Ear!
+
+There "snow" more puns!
 
 
 ## Miscellaneous
