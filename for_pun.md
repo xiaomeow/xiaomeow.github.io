@@ -62,9 +62,6 @@ There are two types of people in this world: Those who can extrapolate from inco
 
 A linguistics professor was lecturing his class the other day. “In English,” he said, “a double negative forms a positive. However, in some languages, such as Russian, a double negative remains a negative.. But there isn’t a single language, not one, in which a double positive can express a negative.” A voice from the back of the room piped up, “Yeah, right.”
 
-## Miscellaneous
 
-<a href="http://www.rinkworks.com/jokes/">Jokes from the internet </a>
-<a href="https://www.kaptest.com/myhome.jhtml">MCAT Resources (password: mCAT) </a>
 
 
