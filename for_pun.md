@@ -5,8 +5,7 @@ title: Once "A-Pun" A Time...
 
 ## Puns/Jokes
 
-What would you get if you dip a piece of chalk in French milk?
-Chocolate! (chalk-au-lait)
+What would you get if you dip a piece of chalk in French milk?\nChocolate! (chalk-au-lait)
 
 I enjoy telling jokes in the elevator, since that makes my jokes funny on so many different levels.
 
