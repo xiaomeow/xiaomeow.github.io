@@ -5,13 +5,7 @@ title: Once "A-Pun" A Time...
 
 ## Puns/Jokes
 
-What would you get if you dip a piece of chalk in French milk? \s\s
-Chocolate! (chalk-au-lait)
-
-I enjoy telling jokes in the elevator, since that makes my jokes funny on so many different levels.
-
-What do you call a wave function describing different quantum states of multiple systems? \s\s
-The "United" States! 
+What do you call a wave function describing different quantum states of multiple systems? The "United" States! 
 
 Why does heat have boring derivatives? Because dq=TdS, i.e."tedius"! (where q is heat, T is temperature, and S is entropy)
 
