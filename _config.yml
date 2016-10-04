@@ -6,8 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Xiao   Fu
-description:      'Student. Punster.'
+title:            Xiao (Cat) Fu
 url:              http://xiaomeow.com
 baseurl:          /
 logo:             /content/images/me.jpg
