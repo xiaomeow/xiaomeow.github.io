@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Xiao (Cat) Fu
+title:            Cat Fu
 url:              http://xiaomeow.com
 baseurl:          /
 logo:             /content/images/me.jpg
