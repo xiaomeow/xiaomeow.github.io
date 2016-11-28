@@ -21,7 +21,7 @@ var punArray = ["A friend of mine tried to annoy me with bird puns, but I soon r
 "I make apocalypse jokes like there's no tomorrow.", 
 "No matter how hard you push the envelope it will still be stationery.", 
 "What tea do hockey players drink? Penaltea!", 
-"What do Marxists only drink terrible tea? Because Proper-tea is theft."
+"What do Marxists only drink terrible tea? Because Proper-tea is theft.",
 "Did you hear about the guy who got hit in the head with a can of soda? He was lucky it was a soft drink.", 
 "I was trying to make a pun about escaping quicksand but I'm stuck.", 
 "The rotation of the earth really makes my day",
