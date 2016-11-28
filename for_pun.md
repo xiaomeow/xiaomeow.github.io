@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Once "A-Pun" A Time... 
 ---
 
