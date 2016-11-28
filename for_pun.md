@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Once "A-Pun" A Time... 
-permalink: for_pun.html
 ---
 
 <div class="main_container">
@@ -16,5 +15,5 @@ permalink: for_pun.html
   </div>
 </div>
 
-<script src="{{ site.baseurl }}public/js/kittify.js"></script>
+<script src="{{ site.baseurl }}public/js/puns.js"></script>
 
