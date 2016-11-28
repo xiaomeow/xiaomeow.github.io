@@ -3,6 +3,8 @@ layout: default
 title: Once "A-Pun" A Time... 
 ---
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
 <div class="main_container">
   <div class="quote_container">
     <p><span class="fa fa-quote-left"></span><span id="pun"></span><span class="fa fa-quote-right"></span></p>
@@ -16,7 +18,6 @@ title: Once "A-Pun" A Time...
   </div>
   
   <script src="{{ site.baseurl }}public/js/puns.js"></script>
-  <script src="http://code.jquery.com/jquery.js"></script>
   
 </div>
 
