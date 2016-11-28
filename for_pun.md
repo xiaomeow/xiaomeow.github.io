@@ -5,6 +5,8 @@ title: Once "A-Pun" A Time...
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
+<h1>Pun Generator</h1>
+
 <div class="main_container">
   <div class="quote_container">
     <p><span class="fa fa-quote-left"></span><span id="pun"></span><span class="fa fa-quote-right"></span></p>
