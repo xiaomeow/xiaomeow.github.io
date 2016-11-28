@@ -1,9 +1,10 @@
+<!doctype html>
 ---
 layout: page
 title: Once "A-Pun" A Time... 
 ---
 
-<!doctype html>
+
 <html>
 
 <h1>Pun Generator</h1>
