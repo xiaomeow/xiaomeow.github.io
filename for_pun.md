@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Once "A-Pun" A Time... 
+permalink: for_pun.html
 ---
 
 <div class="main_container">
