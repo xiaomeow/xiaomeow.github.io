@@ -16,4 +16,5 @@ permalink: for_pun.html
   </div>
 </div>
 
+<script src="{{ site.baseurl }}public/js/kittify.js"></script>
 
