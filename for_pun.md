@@ -1,4 +1,3 @@
-<!doctype html>
 ---
 layout: page
 title: Once "A-Pun" A Time... 
