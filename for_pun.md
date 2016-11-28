@@ -15,5 +15,8 @@ title: Once "A-Pun" A Time...
     <div id="newPun" class="btn btn-primary pull-right new_pun" title="Generate a New Pun">New Pun</div>
   </div>
   
+  <script src="{{ site.baseurl }}public/js/puns.js"></script>
+  <script src="http://code.jquery.com/jquery.js"></script>
+  
 </div>
 
