@@ -1,3 +1,5 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
 var punArray = ["A friend of mine tried to annoy me with bird puns, but I soon realized that toucan play at that game.", 
 "Have you ever tried to eat a clock? It's very time consuming.", 
 "Police were called to a daycare where a three-year-old was resisting a rest.", 
