@@ -3,7 +3,8 @@ layout: page
 title: Once "A-Pun" A Time... 
 ---
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<html>
 
 <h1>Pun Generator</h1>
 
@@ -20,6 +21,8 @@ title: Once "A-Pun" A Time...
   </div>
   
   <script src="{{ site.baseurl }}public/js/puns.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   
 </div>
 
+</html>
