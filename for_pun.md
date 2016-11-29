@@ -9,7 +9,7 @@ title: Once "A-Pun" A Time...
 
 <div class="main_container">
   <div class="quote_container">
-    <h1><span class="fa fa-quote-left fa-3x"></span><span id="pun"></span><span class="fa fa-quote-right fa-3x"></span></h1>
+    <h1><span class="fa fa-quote-left fa-1x"></span><span id="pun"></span><span class="fa fa-quote-right fa-1x"></span></h1>
   </div>
   
   <br>
