@@ -17,7 +17,10 @@ title: Once "A-Pun" A Time...
 
   <div class="row button_container">
     <a href="https://github.com/xiaomeow" class="btn btn-social-icon btn-github" target="_blank" title="Feeling punny?">
-      <span class="fa fa-github fa-lg"></span>
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-square fa-stack-2x"></i>
+        <i class="fa fa-terminal fa-stack-1x fa-inverse"></i>
+      </span>View Source Code
     </a>
     <div id="newPun" class="btn btn-primary fa-pull-right new_pun" title="Generate Another Pun">Moore is more</div>
   </div>
