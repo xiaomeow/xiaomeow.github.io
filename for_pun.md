@@ -6,11 +6,10 @@ title: Once "A-Pun" A Time...
 
 <html>
 
-<h1>Pun Generator</h1>
 
 <div class="main_container">
   <div class="quote_container">
-    <p><span class="fa fa-quote-left"></span><span id="pun"></span><span class="fa fa-quote-right"></span></p>
+    <h1><i class="fa fa-quote-left"></i><span id="pun"></span><i class="fa fa-quote-right"></i></h1>
   </div>
   
   <div class="row button_container">
