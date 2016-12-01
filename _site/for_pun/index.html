@@ -11,7 +11,7 @@
 
   <title>
     
-      Once "A-Pun" A Time... &middot; Xiao Fu
+      Once "A-Pun" A Time... &middot; Cat Fu
     
   </title>
 
@@ -21,10 +21,14 @@
   <link rel="stylesheet" href="/public/css/hyde.css">
   <link rel="stylesheet" href="/public/css/custom.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="/public/css/font-awesome.css">
+  <link rel="stylesheet" href="/public/css/bootstrap-social.css">
+  <link rel="stylesheet" href="/public/css/docs.css">
+ <!-- <link rel="stylesheet" href="/public/css/bootstrap.css"> -->
 
   <!-- Icons -->
   <!--<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">-->
-                                 <link rel="shortcut icon" href="/public/favicon.ico">
+  <link rel="shortcut icon" href="/public/favicon.ico">
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
@@ -35,27 +39,40 @@
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-49590270-1', 'auto');
+  ga('create', 'UA-73835602-1', 'auto');
   ga('send', 'pageview');
-
 </script>
-
 
 
   <body class="theme-base-0d">
 
     <div class="sidebar">
-  <div class="container sidebar-content">
+  <div class="container sidebar-content">   
+    
+    
+    <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', multilanguagePage: true, gaTrack: true, gaId: 'UA-73835602-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+    
+    
       <div class="sidebar-about">
-        <div id="my_pic"></div>
+        <span class="sidebar-nav-item"><a href='#' onClick="kittifyContent(); return false;"><img src="/public/my_pic.jpg" width=360></a></span>
         <h1>
           <a class="sidebar-title" href="/">
-            Xiao Fu
+            Cat Fu
           </a>
         </h1>
-        <p class="lead">Student. Punster.</p>
+        <p class="lead"></p> 
       </div>
+    
+    
+    
+   
+    
+    
       <nav class="sidebar-nav">
         <a class="sidebar-nav-item" href="/">Home</a>
 
@@ -78,6 +95,12 @@
           
         
           
+            
+          
+        
+          
+            
+              <a class="sidebar-nav-item" href="/meow/">Meow</a>
             
           
         
@@ -159,16 +182,13 @@
           </li>
           
 
-          <footer>
-            <ul id="copyright">
-              <li>&copy; 2016. All rights reserved.</li><li>Made by Paws</li>
-            </ul>
-          </footer>
+
+        
 
 
         </ul>
 
-        
+        <p>&copy; 2016. Made by Paws. </p>
 
       </div>
 
@@ -185,30 +205,46 @@
     <div class="content container">
       <div class="page">
   <h1 class="page-title">Once "A-Pun" A Time...</h1>
-  <h2 id="punsjokes">Puns/Jokes</h2>
+  <html>
 
-<p>What do you call a wave function describing different quantum states of multiple systems?
-The “United” States!</p>
 
-<p>What is a cat’s favorite way of holding a pen?
-“Purr..”pen-dicularly!</p>
+<div class="main_container">
 
-<p>What does a cat do to a glovebox?
-“Purr..”ge!</p>
+  <h1>..there was a random pun generator..</h1>
+  <div class="quote_container">
+    <h1><span class="fa fa-quote-left fa-1x"></span><span id="pun"></span><span class="fa fa-quote-right fa-1x"></span></h1>
+  </div>
+  
+  <br />
+  <br />
 
-<p>Once upon a time, there was an industrious otolaryngologist specializing in ear infection, so most people knew him as Mr. Ear. His job left him hardly any leisure. On New Year’s Eve, however, I asked Mr. Ear to join me for a party at Mr. Hapi’s. To my surprise and delight, he agreed to come along. 
-We both showed up at the party, but Mr. Ear started talking to Mr. Hapi before I even introduced him. Then I came to realize —-
-Hapi knew Ear!</p>
+  <div class="row button_container">
+    <a href="https://github.com/xiaomeow" target="_blank" title="Feeling punny?">
+    <!-- class="btn btn-social-icon btn-github" -->
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-square fa-stack-2x"></i>
+        <i class="fa fa-terminal fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
 
-<h2 id="miscellaneous">Miscellaneous</h2>
+    <div id="newPun" class="btn btn-primary fa-pull-right new_pun" title="Generate Another Pun">Moore is more</div>
+  </div>
+  
+</div>
 
-<h2 id="resources">Resources</h2>
+</html>
 
-<p><a href="https://google.com">Google </a></p>
 
 </div>
 
-    </div>
+ 
 
+    </div>
+    
+    <script src="/public/js/kittify.js"></script>
+    
+    <script src="https://code.jquery.com/jquery-2.2.4.js"></script>   
+    <script src="/public/js/puns.js"></script>
+    
   </body>
 </html>
