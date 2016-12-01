@@ -8,6 +8,8 @@ title: Once "A-Pun" A Time...
 
 
 <div class="main_container">
+
+  <h1>..there was a random pun generator..</h1>
   <div class="quote_container">
     <h1><span class="fa fa-quote-left fa-1x"></span><span id="pun"></span><span class="fa fa-quote-right fa-1x"></span></h1>
   </div>
